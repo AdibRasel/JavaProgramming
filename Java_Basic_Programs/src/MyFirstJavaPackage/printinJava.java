@@ -1,7 +1,7 @@
 package MyFirstJavaPackage; //======প্যাকেজের নাম
 
 
-public class MyJavaFirstClass { // ====== ক্লাসের নাম
+public class printinJava { // ====== ক্লাসের নাম
 
     public static void main(String[] args) { // ======= মেইন মেথড শুরু
 
